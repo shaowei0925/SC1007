@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644974786 source:c:\users\slau022\downloads\sc1007 lab 2 q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

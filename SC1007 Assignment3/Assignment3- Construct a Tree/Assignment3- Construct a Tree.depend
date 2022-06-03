@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645501589 source:c:\users\lau shao wei\onedrive\documents\c programming\sc1007\sc1007 assignment3\assignment3- construct a tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

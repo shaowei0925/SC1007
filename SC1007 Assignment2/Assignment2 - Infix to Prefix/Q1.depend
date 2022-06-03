@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644896967 source:c:\users\lau shao wei\onedrive\documents\c programming\sc1007 assignment2\q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649608050 source:c:\users\lau shao wei\onedrive\documents\c programming\sc1007\sc1007 lab8\q1 - fibonacci\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

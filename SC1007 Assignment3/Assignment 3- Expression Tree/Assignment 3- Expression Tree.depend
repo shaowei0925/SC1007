@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645431360 source:c:\users\lau shao wei\onedrive\documents\c programming\sc1007\sc1007 assignment3\assignment 3- expression tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
